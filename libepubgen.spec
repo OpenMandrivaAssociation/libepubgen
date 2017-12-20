@@ -1,9 +1,9 @@
-%define major 0
-%define abi 0.0
+%define major 1
+%define abi 0.1
 %define devname %mklibname epubgen -d
 
 Name: libepubgen
-Version: 0.0.1
+Version: 0.1.0
 Release: 1
 Source0: https://downloads.sourceforge.net/project/libepubgen/libepubgen-%{version}/libepubgen-%{version}.tar.xz
 Summary: Library for generating epub files
