@@ -13,6 +13,7 @@ Group: System/Libraries
 BuildRequires: pkgconfig(cppunit)
 BuildRequires: pkgconfig(zlib)
 BuildRequires: pkgconfig(librevenge-0.0)
+BuildRequires: pkgconfig(libxml-2.0)
 BuildRequires: boost-devel
 BuildRequires: doxygen
 
