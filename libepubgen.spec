@@ -4,7 +4,7 @@
 
 Name: libepubgen
 Version: 0.1.1
-Release: 2
+Release: 3
 Source0: https://downloads.sourceforge.net/project/libepubgen/libepubgen-%{version}/libepubgen-%{version}.tar.xz
 Summary: Library for generating epub files
 URL: https://sourceforge.net/projects/libepubgen/
