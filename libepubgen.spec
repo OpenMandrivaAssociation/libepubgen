@@ -10,6 +10,11 @@ Summary: Library for generating epub files
 URL: https://sourceforge.net/projects/libepubgen/
 License: LGPLv2.1/MPL
 Group: System/Libraries
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: pkgconfig(cppunit)
 BuildRequires: pkgconfig(zlib)
 BuildRequires: pkgconfig(librevenge-0.0)
